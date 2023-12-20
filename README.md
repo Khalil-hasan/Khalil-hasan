@@ -5,7 +5,7 @@
   - [Simple Network Typography Project](https://github.com/Khalil-hasan/Cisco-packet-tracer)
 <h2> Certifications</h2>
 
-- Google Cybersecurity Professional 
+- [Google Cybersecurity Professional](https://github.com/Khalil-hasan/Certifications/blob/main/Google%20cybersecurity%20professional%20certificate.pdf)
 - [Comptia Security+ ce](https://github.com/Khalil-hasan/Certifications/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 <h2> 🤳 Connect with me:</h2>
 
