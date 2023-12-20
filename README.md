@@ -2,8 +2,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>Cisco Packet Tracer</b>
-  - Simple Network Typography Project 
+  - [Simple Network Typography Project](https://github.com/Khalil-hasan/Cisco-packet-tracer)
 <h2> Certifications</h2>
 
 - Google Cybersecurity Professional 
