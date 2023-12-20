@@ -2,7 +2,10 @@
 
 <h2> Cybersecurity Projects:</h2>
 
+- <b>Cisco Packet Tracer</b>
+
   - [Simple Network Typography Project](https://github.com/Khalil-hasan/Cisco-packet-tracer)
+- <b> SIEM Tool
 <h2> Certifications</h2>
 
 - [Google Cybersecurity Professional](https://github.com/Khalil-hasan/Certifications/blob/main/Google%20cybersecurity%20professional%20certificate.pdf)
